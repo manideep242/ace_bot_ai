@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 <p align="center"><i>Ace Bot AI — Ace your interviews with smart preparation!</i></p>
 
-<p align="center"><b>Made by Kolli Lokesh Reddy</b></p>
+<p align="center"><b>Made by GANDU MANIDEEP</b></p>
